@@ -30,9 +30,9 @@ GitHub Repository
 
 Creating a new repository on the command line
 
-git init (this starts initializing and creates git folder in your directory. It’s the connection from Computer to GitHub. Initialize everytime you create a new folder)
+git init (this starts initializing and creates git folder in your directory. It’s the connection from Computer to GitHub. Initialize everytime you create a new folder) IF MESSAGES LIKE ACCESS RIGHTS OR REPO ALREADY EXISTS AND YOU'RE HAVING TROUBLE PUSHING INTO REPO. IT IS RECOMMENDED TO START OVER WITH A NEW FOLDER IN YOUR LOCAL DEVICE. MAKE NEW FOLDER IN LOCAL AND RENAME. DO THE SAME FOR GITHUB REPO TO CAUSE LESS CONFUSION. OLD FOLDER IS ALREADY CONNECTED TO PREVIOUS REPO NAME IN GITHUB.  
 
-git add (README.md, text file or image)
+git add (README.md, text file or image). You can add multiple files for example (git add file1.txt file2.txt file3.txt) 
 
 git status (see status or what’s in the queue to be pushed) 
 
